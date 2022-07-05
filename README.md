@@ -1,6 +1,6 @@
 # SPHGPUserverside_bashscripts
 
-<h2>This repository is various shell scripts used in Linux for automating tasks requiring user input for DLC, CAIMAN, or DeepCAD extraction/analysis.</h2>
+This repository is various shell scripts used in Linux for automating tasks requiring user input for DLC, CAIMAN, or DeepCAD extraction/analysis.
 
 <h2>The following <i><b><u>packages</i></b></u> are utilized:</h2>
 <dl><dt>xdotool</dt/>
