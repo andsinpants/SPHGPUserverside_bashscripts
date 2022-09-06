@@ -1,8 +1,14 @@
-for i in {1..80}; do
-xdotool windowfocus 46137354; # for assigned windows: 46137348, check everytime reboot
-#xdotool windowfocus 48373728
-xdotool type yes;
+#purpose of script, automating yes entries for extract frames
+#this script is in a conditional loop until ctrl+c is entered, it will enter yes
+#every 5 minutes with a timestamp on a separate terminal window
+#for i in {1..80}; # use if wanting counted loop iteration
+for ((; ; )) # use for infinite loop
+do xdotool windowfocus 47478044 # check window ID everytime reboot ("use command xdotool selectwindow")
+xdotool type yes
+xdotool key Return
+xdotool windowfocus 46782786
+xdotool type $(date +"%Y-%m-%d_%T") #print timestamp when entered
 xdotool key Return;
-xdotool key Return;
-xdotool sleep 2100; # default is 900 sec or 15 min.
+xdotool sleep 600; # default is 600 sec or 5 min.
 done
+
