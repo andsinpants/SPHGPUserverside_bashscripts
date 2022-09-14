@@ -1,5 +1,11 @@
 # SPHGPUserverside_bashscripts
 
+<div class="row">
+  <div class="column">
+   <img src="https://github.com/andsinpants/SPHGPUserverside_bashscripts/blob/main/sphgpubash.PNG" alt="sphgpubash" style="width:30%">
+  </div>
+</div>
+
 This repository is various shell scripts used in Linux for automating tasks requiring user input for DLC, CAIMAN, or DeepCAD extraction/analysis.
 
 <h2>The following <i><b><u>packages</i></b></u> are utilized:</h2>
