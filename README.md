@@ -3,9 +3,9 @@
 This repository is various shell scripts used in Linux for automating tasks requiring user input for DLC, CAIMAN, or DeepCAD extraction/analysis.
 
 <h2>The following <i><b><u>packages</i></b></u> are utilized:</h2>
-<dl><dt>xdotool</dt/>
+<dl><dt>xdotool</dt>
 <dd>This is the "AutoHotKey for Linux". Install with "sudo apt-get xdotool" command.</dd></dl>
-<dl><dt>mailutils</dt/>
+<dl><dt>mailutils</dt>
 <dd>This is the <b>mail</b> command for Linux. Install with "sudo apt install mailutils" command. Read how to setup/configure postfix <a href="https://ubuntu.com/server/docs/mail-postfix">here</a></dd></dl>
 
 <h2>The following <i><b><u>folders</i></b></u> are contained in the respository:</h2>
