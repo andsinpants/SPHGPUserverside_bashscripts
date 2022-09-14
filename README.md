@@ -2,7 +2,7 @@
 
 <div class="row">
   <div class="column">
-   <img src="https://github.com/andsinpants/SPHGPUserverside_bashscripts/blob/main/sphgpubash.PNG" alt="sphgpubash" style="width:30%">
+   <img src="https://github.com/andsinpants/SPHGPUserverside_bashscripts/blob/main/sphgpubash.PNG" alt="sphgpubash" style="width:50%">
   </div>
 </div>
 
